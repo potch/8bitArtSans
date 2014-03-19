@@ -1,0 +1,12 @@
+@font-face {
+  font-family: '8bit Art Sans';
+  src: url('8bit-Art-Sans.eot'); /* IE9 Compat Modes */
+  src: url('8bit-Art-Sans.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('8bit-Art-Sans.woff') format('woff'), /* Modern Browsers */
+       url('8bit-Art-Sans.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('8bit-Art-Sans.svg#2ae82d84241b90cc548b70af31921da5') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
