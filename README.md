@@ -8,7 +8,7 @@ I drew this for fun:
 
 and decided to make a real-life webfont out of it!
 
-Tools:
+Tools used:
 * [Make 8-bit Art](http://make8bitart.com)
 * [FontStruct](http://fontstruct.com)
 * [FontPrep](http://fontprep.com/)
