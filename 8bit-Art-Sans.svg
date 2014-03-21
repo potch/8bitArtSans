@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontPrep 20130207 at Tue Mar 18 23:28:35 2014
+Created by FontPrep 20130207 at Thu Mar 20 19:16:46 2014
  By Matthew Claypotch
 Copyright potch 2014
 </metadata>
@@ -37,12 +37,22 @@ d="M0 0v1280h1280v-1280h-1280zM842 894v202h-202q-86 0 -145 -60t-59 -142h406zM640
 d="M0 512v768h512v-768h-512zM0 0v256h512v-256h-512z" />
     <glyph glyph-name="quotedbl" unicode="&#x22;" 
 d="M768 768v512h256v-512h-256zM256 768v256h-256v256h512v-512h-256z" />
+    <glyph glyph-name="numbersign" unicode="#" horiz-adv-x="1536" 
+d="M256 0v256h-256v256h256v256h-256v256h256v256h256v-256h256v256h256v-256h256v-256h-256v-256h256v-256h-256v-256h-256v256h-256v-256h-256zM768 512v256h-256v-256h256z" />
+    <glyph glyph-name="dollar" unicode="$" 
+d="M256 -256v256h-256v256h512v256h-512v256h256v256h256v256h256v-256h256v-256h-256v-256h256v-256h-256v-256h-256v-256h-256z" />
+    <glyph glyph-name="percent" unicode="%" horiz-adv-x="1536" 
+d="M512 -256v256h-256v256h256v256h-512v768h768v-256h256v256h256v-256h-256v-256h-256v-256h512v-768h-768zM512 768v256h-256v-256h256zM1024 0v256h-256v-256h256zM0 -256v256h256v-256h-256z" />
+    <glyph glyph-name="ampersand" unicode="&#x26;" horiz-adv-x="1536" 
+d="M256 0v256h-256v256h256v256h-256v256h256v256h768v-512h256v-256h-256v-256h-256v-256h-512zM768 768v256h-256v-256h256zM768 256v256h-256v-256h256zM1024 256h256v-256h-256v256z" />
     <glyph glyph-name="quotesingle" unicode="'" horiz-adv-x="768" 
 d="M256 768v256h-256v256h512v-512h-256z" />
     <glyph glyph-name="parenleft" unicode="(" horiz-adv-x="1024" 
 d="M256 -256v256h-256v1024h256v256h512v-256h-256v-1024h256v-256h-512z" />
     <glyph glyph-name="parenright" unicode=")" horiz-adv-x="1024" 
 d="M0 -256v256h256v1024h-256v256h512v-256h256v-1024h-256v-256h-512z" />
+    <glyph glyph-name="asterisk" unicode="*" horiz-adv-x="1024" 
+d="M0 1024v256h256v-256h-256zM0 512v256h256v256h256v256h256v-256h-256v-256h-256v-256h-256zM512 768h256v-256h-256v256z" />
     <glyph glyph-name="plus" unicode="+" horiz-adv-x="1024" 
 d="M256 256v256h-256v256h256v256h256v-256h256v-256h-256v-256h-256z" />
     <glyph glyph-name="comma" unicode="," horiz-adv-x="768" 
@@ -85,6 +95,8 @@ d="M0 768v256h1024v-256h-1024zM0 256v256h1024v-256h-1024z" />
 d="M0 0v256h256v256h256v256h-256v256h-256v256h512v-256h256v-256h256v-256h-256v-256h-256v-256h-512z" />
     <glyph glyph-name="question" unicode="?" 
 d="M256 512v256h256v256h-512v256h768v-256h256v-256h-256v-256h-512zM256 0v256h512v-256h-512z" />
+    <glyph glyph-name="at" unicode="@" horiz-adv-x="1536" 
+d="M512 256v512h512v256h-768v256h768v-256h256v-768h-768zM0 0v1024h256v-1024h-256zM256 0h1024v-256h-1024v256z" />
     <glyph glyph-name="A" unicode="A" 
 d="M0 0v1024h256v256h768v-1280h-256v512h-256v-512h-512zM768 768v256h-256v-256h256z" />
     <glyph glyph-name="B" unicode="B" 
@@ -207,6 +219,8 @@ d="M256 -256v512h-256v512h256v512h768v-256h-256v-1024h256v-256h-768z" />
 d="M0 -256v1536h512v-1536h-512z" />
     <glyph glyph-name="braceright" unicode="}" 
 d="M0 -256v256h256v1024h-256v256h768v-512h256v-512h-256v-512h-768z" />
+    <glyph glyph-name="asciitilde" unicode="~" horiz-adv-x="1536" 
+d="M0 512v256h256v256h512v-256h-256v-256h-512zM1024 768v256h256v-256h-256zM1024 768v-256h-256v256h256z" />
     <glyph glyph-name="exclamdown" unicode="&#xa1;" horiz-adv-x="768" 
 d="M0 768v256h512v-256h-512zM0 -256v768h512v-768h-512z" />
     <glyph glyph-name="questiondown" unicode="&#xbf;" 
