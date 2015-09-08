@@ -1,0 +1,28 @@
+{
+  "name": "8bitArtSans",
+  "version": "1.0.0",
+  "description": "Funky Tiny Pixel Font",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm run makettf && npm run makewoff && npm run makeeot",
+    "makettf": "svg2ttf 8BitArtSansNeue.svg 8BitArtSansNeue.ttf",
+    "makewoff": "ttf2woff 8BitArtSansNeue.ttf 8BitArtSansNeue.woff",
+    "makeeot": "ttf2eot 8BitArtSansNeue.ttf 8BitArtSansNeue.eot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/potch/8bitArtSans.git"
+  },
+  "author": "Potch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/potch/8bitArtSans/issues"
+  },
+  "homepage": "https://github.com/potch/8bitArtSans",
+  "devDependencies": {
+    "svg2ttf": "^2.0.2",
+    "ttf2eot": "^1.3.0",
+    "ttf2woff": "^1.3.0"
+  }
+}
